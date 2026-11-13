@@ -4,7 +4,7 @@
 
 ## 始め方
 
-1. GitHub にサインインし、[このテンプレートから演習を作成する](https://github.com/ctct-edu/code-with-codespaces/generate) を開きます。**Owner** と公開範囲を確認して **Create repository** を選びます。
+1. GitHub にサインインし、[このテンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=code-with-codespaces&owner=%40me&name=skills-code-with-codespaces&description=Exercise:+Code+with+Codespaces&visibility=public) を開きます。**Repository name** に `skills-code-with-codespaces` が入っていることを確認します。**Owner** と公開範囲を確認して **Create repository** を選びます。
 2. 自分のリポジトリが作成されたら、20秒ほど待ってページを再読み込みします。
 3. 自分のリポジトリの README から演習 Issue を開き、日本語のステップ案内に沿って操作します。
 

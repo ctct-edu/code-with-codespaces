@@ -5,7 +5,7 @@
 1. Codespace 内で `.devcontainer/devcontainer.json` を作り、指定の基本イメージを設定します。
 2. 設定変更の通知を承認するか、コマンドパレットの `Codespaces: Rebuild Container` から **Rebuild** を選びます。
 3. 再接続したら、ターミナルでバージョンを確認します。最初の環境にあったツールとの違いを見比べます。
-4. Git LFS フックに関する原文の操作は、この演習用 Codespace 内で行います。設定をコミットし、教材の案内に従って GitHub に反映します。
+4. Git LFS フックに関する原文の操作は、この演習用 Codespace 内で行います。下の例のとおり設定をコミットし、`git push` で GitHub に反映します。
 
 ### 原文のコマンド・入力例
 

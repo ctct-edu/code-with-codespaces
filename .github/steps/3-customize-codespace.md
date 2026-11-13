@@ -4,7 +4,7 @@
 2. `devcontainers` の **Python** → **Configure Options** を選び、**Install Tools** を `true`、バージョンを `3.10` にします。設定の `features` を確認します。
 3. **Extensions** で **Python** と **Python Debugger** を探し、各項目を右クリックして **Add to devcontainer.json** を選びます。設定の `customizations` を確認します。
 4. `.devcontainer/postCreate.sh` を作り、実行権限を付けます。指定のスクリプトを入れ、JSON の最上位に `postCreateCommand` を追加します。
-5. 設定をコミットして GitHub に反映します。確認する場合は再構築し、拡張機能が有効か、Python のデバッグとターミナルの `sl` が動くか試します。
+5. `.devcontainer/devcontainer.json` と `.devcontainer/postCreate.sh` をコミットし、`git push` で GitHub に反映します。確認する場合は再構築し、拡張機能が有効か、Python のデバッグとターミナルの `sl` が動くか試します。
 
 ### 原文のコマンド・入力例
 
