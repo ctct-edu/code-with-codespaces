@@ -28,4 +28,10 @@ git commit -m 'fix: incomplete hello message'
 git push
 ```
 
+### 画面での確認
+
+- 自分のリポジトリ上部の **Code** タブを開き、ファイル一覧の右上にある緑色の **Code** ボタンを押します。メニューの **Codespaces** を選んで作成します。
+- VS Code が開いたら左下の接続表示を確認します。左端の書類アイコンが **Explorer**、下部の **TERMINAL** がコマンド入力欄です。見えないときは VS Code の **Terminal → New Terminal** を選びます。
+- プッシュ後、元の GitHub タブを再読み込みし、`src/hello.py` に `Hello World!` が表示されることを確認します。
+
 [原文](https://github.com/skills/code-with-codespaces/blob/main/.github/steps/1-first-codespace.md)

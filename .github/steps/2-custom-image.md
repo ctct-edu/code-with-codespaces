@@ -45,4 +45,9 @@ git commit -m 'feat: Add codespace configuration'
 git push
 ```
 
+### 画面での確認
+
+- 左端の **Explorer** でリポジトリの最上位に `.devcontainer` フォルダを作り、その中に `devcontainer.json` を作ります。ファイル名の前のドットを含めて入力します。
+- 再構築の通知が見当たらない場合は、VS Code 上部のコマンドパレットを `Ctrl+Shift+P`（Mac は `Cmd+Shift+P`）で開きます。再接続後は下部の **TERMINAL** でバージョンを確認します。
+
 [原文](https://github.com/skills/code-with-codespaces/blob/main/.github/steps/2-custom-image.md)

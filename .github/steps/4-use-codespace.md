@@ -12,4 +12,9 @@ Hey @professortocat, I've finished testing out my new Codespace.
 I'm ready to review!
 ```
 
+### 画面での確認
+
+- 削除する前に GitHub 側の **Code** タブで、設定ファイルが `main` に反映されていることを確認します。
+- 緑色の **Code** ボタン → **Codespaces** にある、対象環境の右側の `…` から **Delete** を選びます。新しい環境が開いたら、元の演習 Issue タブに戻り、下部のコメント欄に指定文を投稿します。
+
 [原文](https://github.com/skills/code-with-codespaces/blob/main/.github/steps/4-use-codespace.md)

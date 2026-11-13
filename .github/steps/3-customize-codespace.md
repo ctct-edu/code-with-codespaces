@@ -75,4 +75,9 @@ gh --version
 sl
 ```
 
+### 画面での確認
+
+- 左端の四角が並ぶアイコンが **Extensions** です。上の検索欄から拡張機能を探し、結果の項目を右クリックします。
+- 左の **Explorer** で `.devcontainer` を開き、`devcontainer.json` と `postCreate.sh` が同じ階層にあることを確認します。再構築を試す場合は、**Extensions** で2つの拡張機能が有効か確認します。
+
 [原文](https://github.com/skills/code-with-codespaces/blob/main/.github/steps/3-customize-codespace.md)
